@@ -1,0 +1,8 @@
+﻿{
+    "cpu":  "amd ryzen5 3600xt",
+    "ram":  "32gb",
+    "gpu":  "gtx 1650super",
+    "vram":  "4gb",
+    "ssd":  "1tb",
+    "mb":  "Asrock phantom gaming matx"
+}
