@@ -17,8 +17,6 @@
 
 # Questions----------------------------------------------------------
 
-$PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
-
 $askForComponents = @{
 cpu = "Was für ein Prozessor hat dein Rechner?";
 gpu = "Was für eine Grafikkarte hat dein Rechner?"; 
